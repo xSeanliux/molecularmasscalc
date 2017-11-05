@@ -202,7 +202,7 @@ function go() {
     if(ans){
             var tempstr = "$$";
     var isInDigit = false;
-    if()
+    
     for(var i = 0; i < string.length; i++){
         if(isDigit(string[i]) && !isInDigit){
             isInDigit = true;
