@@ -45,8 +45,11 @@ function getMass(str){
         return 44.956;
     } else if(str == "Ti"){
         return 47.867;
+    } else if(str == "U"){
+        return 238.02891;
     }
-}
+}   
+    
 
 
 function run(chem){
